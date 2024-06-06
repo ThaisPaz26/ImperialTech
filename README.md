@@ -2,6 +2,7 @@
 Este é um projeto estudantil para a avaliação integrada no curso de TADS da UNINOVE. Ele foi desenvolvido através da IDE Eclipse, com auxílio do XAMPP (fornecer conexão ao Mysql) e MySQL Workbeanch(SGBD onde estão armazenados os registros dos usuários).
 
 ⚠️ **Esse projeto foi desenvolvido usando JDK 17, sendo assim, ao importar o projeto na IDE, certifique-se que "Projects Facets" esteja com Java -> 17, biblioteca JRE -> Java SE 17 e o servidor Apache Tomcat também está configurado com JRE - JDK 17!**
+Link JDK-17: https://drive.google.com/drive/folders/1JRqDF8hnymtlnHK5sT46ASYn9OGMv_3N?usp=drive_link
 
 ## Conteúdos das páginas do site:
 * **index:** página inicial
